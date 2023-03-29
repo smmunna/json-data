@@ -4,7 +4,7 @@
         "name":"In Search of Lost Time",
         "price":200,
         "quantity":0,
-        "img":"https://en.wikipedia.org/wiki/In_Search_of_Lost_Time#/media/File:MS_A_la_recherche_du_temps_perdu.jpg"
+        "img":"https://images.pexels.com/photos/3457273/pexels-photo-3457273.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
         "id":402,
@@ -67,7 +67,7 @@
         "name":"English Literature",
         "price":500,
         "quantity":0,
-        "img":"https://www.pexels.com/photo/monochrome-photo-of-person-holding-book-1787219/"
+        "img":"https://images.pexels.com/photos/3662873/pexels-photo-3662873.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
         "id":411,
